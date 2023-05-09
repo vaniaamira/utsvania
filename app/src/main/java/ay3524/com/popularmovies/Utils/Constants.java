@@ -5,7 +5,7 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class Constants {

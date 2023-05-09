@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import java.io.ByteArrayOutputStream;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class BitmapUtility {

@@ -43,7 +43,7 @@
                     android:clickable="true"
                     android:contentDescription="@string/back_button"
                     android:src="@drawable/ic_share_white"
-                    android:tint="@android:color/white" />
+                    android:tint="@android:color/darker_gray" />
 
             </RelativeLayout>
 

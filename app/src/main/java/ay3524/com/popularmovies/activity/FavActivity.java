@@ -10,7 +10,7 @@ import ay3524.com.popularmovies.fragments.MoviesDetailsFavFragment;
 import ay3524.com.popularmovies.fragments.MoviesFavoriteListFragment;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class FavActivity extends AppCompatActivity implements MoviesFavoriteListFragment.OnHeadLineSelectedListener{

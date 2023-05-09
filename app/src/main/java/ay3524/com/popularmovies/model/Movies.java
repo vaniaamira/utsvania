@@ -11,7 +11,7 @@ import java.util.List;
 import ay3524.com.popularmovies.Utils.Constants;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class Movies implements Parcelable {

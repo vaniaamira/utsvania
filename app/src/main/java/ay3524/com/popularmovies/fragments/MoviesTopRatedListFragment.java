@@ -46,7 +46,7 @@ import static ay3524.com.popularmovies.Utils.Constants.GRID_TRHEE;
 import static ay3524.com.popularmovies.Utils.Constants.GRID_TWO;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class MoviesTopRatedListFragment extends Fragment implements RecyclerAdapterGrid.ClickListener {

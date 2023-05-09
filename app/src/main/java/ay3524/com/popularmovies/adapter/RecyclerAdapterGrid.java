@@ -29,7 +29,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class RecyclerAdapterGrid extends RecyclerView.Adapter<RecyclerAdapterGrid.ViewHolder> {

@@ -21,7 +21,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class RecyclerAdapterFav extends RecyclerView.Adapter<RecyclerAdapterFav.ViewHolder> {

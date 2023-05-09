@@ -1,7 +1,7 @@
 package ay3524.com.popularmovies.response;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 import com.google.gson.annotations.SerializedName;

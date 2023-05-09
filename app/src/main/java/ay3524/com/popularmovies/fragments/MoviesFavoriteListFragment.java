@@ -39,7 +39,7 @@ import static ay3524.com.popularmovies.Utils.Constants.MOVIES_LOADER_ID_ONE;
 import static ay3524.com.popularmovies.data.MovieContract.MovieEntry.TABLE_NAME;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class MoviesFavoriteListFragment extends Fragment implements RecyclerAdapterFav.ClickListener {

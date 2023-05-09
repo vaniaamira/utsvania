@@ -55,7 +55,7 @@ import static ay3524.com.popularmovies.Utils.Constants.API_KEY;
 import static ay3524.com.popularmovies.Utils.Constants.ARG_POSITION;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 public class MoviesDetailsFragment extends Fragment implements View.OnClickListener {
 

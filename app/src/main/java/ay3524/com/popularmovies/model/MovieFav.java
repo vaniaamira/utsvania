@@ -4,7 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class MovieFav implements Parcelable {

@@ -1,7 +1,7 @@
 package ay3524.com.popularmovies.api;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 import android.content.Context;

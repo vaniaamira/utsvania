@@ -7,7 +7,7 @@ import java.util.List;
 import ay3524.com.popularmovies.model.Review;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class MovieResponseReviews {

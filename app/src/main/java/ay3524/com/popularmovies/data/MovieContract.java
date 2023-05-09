@@ -3,7 +3,7 @@ package ay3524.com.popularmovies.data;
 import android.provider.BaseColumns;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class MovieContract {

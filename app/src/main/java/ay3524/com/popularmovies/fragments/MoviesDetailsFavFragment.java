@@ -25,7 +25,7 @@ import static android.view.View.GONE;
 import static ay3524.com.popularmovies.Utils.Constants.ARG_POSITION;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 
 public class MoviesDetailsFavFragment extends Fragment implements View.OnClickListener {

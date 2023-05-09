@@ -44,7 +44,7 @@ import static ay3524.com.popularmovies.Utils.Constants.API_KEY;
 import static ay3524.com.popularmovies.Utils.Constants.MOVIES_LOADER_ID_ONE;
 
 /**
- * Created by Rizqi
+ * Created by VaniaAmira
  */
 public class MoviesPopularListFragment extends Fragment implements RecyclerAdapterGrid.ClickListener {
 
